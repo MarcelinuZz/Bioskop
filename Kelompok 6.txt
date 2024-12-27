@@ -1,0 +1,23 @@
+Kelompok 6
+
+Christofle Tjhai ( Ketua )
+Marcelinus Wijaya Oey ( Wakil )
+Jason Benoit Adianto ( Member )
+
+Website Pemesanan Tiket Bioskop
+
+Nama Projek : CineWave
+
+CineWave adalah sebuah aplikasi web pemesanan tiket bioskop online yang dirancang untuk memberikan kemudahan bagi pengguna dalam memilih dan memesan tiket film bioskop secara online. Dengan perkembangan teknologi dan perubahan gaya hidup masyarakat yang semakin mengarah pada transaksi digital, CineWave hadir sebagai solusi yang mempermudah pengalaman menonton film di bioskop. Aplikasi ini bertujuan untuk menyediakan platform yang tidak hanya mudah digunakan, tetapi juga efisien dan aman dalam memesan tiket bioskop.
+
+Aplikasi dikembangkan dengan :
+Frontend : ReactJS, TypeScript, TailwindCSS.
+Backend : JavaScript, NodeJS, ExpressJS.
+Database : SQL Server.
+OS : Windows 11
+
+Software Architecture : Client-Server Model
+SDLC : Waterfall & Agile.
+
+
+
